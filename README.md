@@ -1,9 +1,9 @@
 # Ruya
 
 This is the repository for the paper which introduces Ruya, the memory-aware cluster configuration optimizer.
-It will be presented at the 2022 IEEE International Conference on Big Data.
+The paper will be presented at the 2022 IEEE International Conference on Big Data.
 
-It contains:
+The repository contains:
 
 - The source code and the [evaluation](/evaluation.ipynb) of Ruya, including resulting [plots](/plots)
 - The [main evaluation dataset in csv format](arrow_cluster_jobs.csv) from the ["Arrow" paper by Hsu et al.](https://github.com/oxhead/scout)

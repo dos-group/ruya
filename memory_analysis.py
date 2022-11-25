@@ -1,4 +1,4 @@
-import pandas as pd, numpy as np
+import pandas as pd
 
 from sklearn.linear_model import LinearRegression as LR
 
